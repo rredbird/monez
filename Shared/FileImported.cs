@@ -1,10 +1,11 @@
-﻿using System;
+﻿using NServiceBus;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Shared
 {
-    class FileImported
+    class FileImported : IEvent
     {
     }
 }

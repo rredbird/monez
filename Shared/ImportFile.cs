@@ -1,10 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using NServiceBus;
 
 namespace Shared
 {
-    class ImportFile
+    public class ImportFile : ICommand
     {
+        public ImportFile(string path)
+        {
+            Path = path;
+        }
+
+        public string Path { get; private set; }
     }
 }

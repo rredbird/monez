@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportService", "..\ImportS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D439C447-788B-4384-A26C-D553DECA42CF}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{8F2F4C6A-5C0F-472D-B8A8-01701F743571}"
+	ProjectSection(SolutionItems) = preProject
+		20180217-6010039906-umsatz.CSV = 20180217-6010039906-umsatz.CSV
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

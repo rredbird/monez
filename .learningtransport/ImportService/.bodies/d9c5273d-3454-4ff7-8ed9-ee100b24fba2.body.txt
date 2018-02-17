@@ -1,0 +1,1 @@
+<?xml version="1.0"?><ImportFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.net/Shared"><Path>C:\Users\Robin\Source\Repos\monez\20180217-6010039906-umsatz.CSV</Path></ImportFile>
