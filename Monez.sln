@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Monez", "Monez\Monez.csproj", "{F4C1A938-5814-4325-84D0-B31024281741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportService", "..\ImportService\ImportService.csproj", "{DAC310AC-FB30-4400-9390-12D3B8960C43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{D439C447-788B-4384-A26C-D553DECA42CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C1A938-5814-4325-84D0-B31024281741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C1A938-5814-4325-84D0-B31024281741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C1A938-5814-4325-84D0-B31024281741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C1A938-5814-4325-84D0-B31024281741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAC310AC-FB30-4400-9390-12D3B8960C43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAC310AC-FB30-4400-9390-12D3B8960C43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAC310AC-FB30-4400-9390-12D3B8960C43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAC310AC-FB30-4400-9390-12D3B8960C43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D439C447-788B-4384-A26C-D553DECA42CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D439C447-788B-4384-A26C-D553DECA42CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D439C447-788B-4384-A26C-D553DECA42CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D439C447-788B-4384-A26C-D553DECA42CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C06FFCE9-EB07-40B1-80E3-4144D8E0BC35}
+	EndGlobalSection
+EndGlobal
